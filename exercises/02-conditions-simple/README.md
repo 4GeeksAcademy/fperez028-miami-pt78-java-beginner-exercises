@@ -1,6 +1,6 @@
 # 📝 Instructions
 
-Given a person age, print on the console the following:
+Given a person's age, print the following to the console:
 
-1. `is old enough` if its old enough to drink.
-2. `not old enough` if its not old enough to drink.
+1. `is old enough` if the person is old enough to drink.
+2. `not old enough` if the person is not old enough to drink.
